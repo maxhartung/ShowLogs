@@ -1,0 +1,6 @@
+C:\Users\maxha\source\repos\ShowLogs\ShowLogs\obj\Debug\ShowLogs.csproj.CoreCompileInputs.cache
+C:\Users\maxha\source\repos\ShowLogs\ShowLogs\bin\Debug\ShowLogs.exe.config
+C:\Users\maxha\source\repos\ShowLogs\ShowLogs\bin\Debug\ShowLogs.exe
+C:\Users\maxha\source\repos\ShowLogs\ShowLogs\bin\Debug\ShowLogs.pdb
+C:\Users\maxha\source\repos\ShowLogs\ShowLogs\obj\Debug\ShowLogs.exe
+C:\Users\maxha\source\repos\ShowLogs\ShowLogs\obj\Debug\ShowLogs.pdb
